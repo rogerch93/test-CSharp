@@ -2,6 +2,6 @@
 
 ## Pratica com Algoritimos em C#.
 
-- logica básica.
+- logica básica
 
-- Algoritimos.
+- Algoritimos
