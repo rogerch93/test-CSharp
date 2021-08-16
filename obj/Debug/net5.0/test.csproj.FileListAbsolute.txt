@@ -1,0 +1,16 @@
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/test
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/test.deps.json
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/test.runtimeconfig.json
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/test.dll
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/ref/test.dll
+/home/roger/Desktop/DIO/C#test/test/bin/Debug/net5.0/test.pdb
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.csproj.AssemblyReference.cache
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.AssemblyInfo.cs
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.csproj.CoreCompileInputs.cache
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.dll
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/ref/test.dll
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.pdb
+/home/roger/Desktop/DIO/C#test/test/obj/Debug/net5.0/test.genruntimeconfig.cache
